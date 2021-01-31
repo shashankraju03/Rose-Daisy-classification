@@ -8,3 +8,4 @@ Deep Learning model to classify Rose and Daisy flowers with web based deployment
 * After downloading or training the model put it in the folder with remaining files.
 * Run app.py
 * A temporary url is displayed copy and paste in browser to open the web app.
+* Use images in samples for testing folder to test the app.
